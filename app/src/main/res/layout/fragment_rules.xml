@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="490dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="लिखित परिचय सम्बंदी जानकारीहरु"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="..............................................................."
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="१. १८ ओटा प्रस्न सोधिने छ ।"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+२. येसमा १८ वटा प्रश्न सोधिएको छ जसको पूर्ण्ााक अंकको हुनेछ भने उतिर्ण्र्ााुनका लागि ४०.५ अंक ल्याउनुपर्नेछ । सबै प्रश्नको अंक भार ४.५ रहेको छ ।"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+३. लामो प्रस्न सोधिने छैन |"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+४. यो आपमा भयका सबै खण्डहरु जान्न र बुजना जरुरि छ"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+५. ट्राफिक चिनहहरुको नि प्रस्नहरु पनि सोधिने छ |"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+६. हरेक प्रस्न हरुमा  ४ ओटा मध्ये, सहि उत्तरमा ठिक चिन्ह लगाउने पर्नेछ |"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:text="
+७. लिखित परिछ को समय आवधि ३० मिनेट को हुनेछ"
+            android:textColor="@color/lightred"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>
+

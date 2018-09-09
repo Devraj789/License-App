@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listview">
+
+    </ListView>
+
+    <!--<TextView-->
+        <!--android:id="@+id/questions"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textStyle="bold" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/option1"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="option1" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/option2"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="option2" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/option3"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="option3" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/option4"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="option4" />-->
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Next"-->
+        <!--android:id="@+id/next"-->
+        <!--android:layout_gravity="center"/>-->
+</LinearLayout>
